@@ -132,7 +132,7 @@ struct VentMap : CustomStringConvertible {
     }
 }
 
-fileprivate var testData = """
+fileprivate let testData = """
 0,9 -> 5,9
 8,0 -> 0,8
 9,4 -> 3,4

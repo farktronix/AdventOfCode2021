@@ -31,3 +31,8 @@ print("Day 5 Test: \(testDay5())")
 print("Day 5 Run: \(runDay5())")
 print("Day 5.2 Test: \(testDay5Part2())")
 print("Day 5.2 Run: \(runDay5Part2())")
+
+print("Day 6 Test: \(testDay6())")
+print("Day 6 Run: \(runDay6())")
+print("Day 6.2 Test: \(testDay6Part2())")
+print("Day 6.2 Run: \(runDay6Part2())")

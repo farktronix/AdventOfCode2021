@@ -18,6 +18,8 @@
 		434D72CA275B356100441E09 /* Day3Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434D72C7275B2BE800441E09 /* Day3Data.swift */; };
 		434D72CC275B35DD00441E09 /* Day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434D72CB275B35DD00441E09 /* Day1.swift */; };
 		434D72CE275B377A00441E09 /* Day1Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434D72CD275B377A00441E09 /* Day1Data.swift */; };
+		437896AD275DE473009CEBB0 /* Day6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437896AC275DE473009CEBB0 /* Day6.swift */; };
+		437896AF275DE47A009CEBB0 /* Day6Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437896AE275DE47A009CEBB0 /* Day6Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +47,8 @@
 		434D72C8275B2C4E00441E09 /* Day3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day3.swift; sourceTree = "<group>"; };
 		434D72CB275B35DD00441E09 /* Day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day1.swift; sourceTree = "<group>"; };
 		434D72CD275B377A00441E09 /* Day1Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day1Data.swift; sourceTree = "<group>"; };
+		437896AC275DE473009CEBB0 /* Day6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day6.swift; sourceTree = "<group>"; };
+		437896AE275DE47A009CEBB0 /* Day6Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day6Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,8 @@
 				434CFB8C275B43CE0001EFFE /* Day4Data.swift */,
 				434CFB8E275C8E470001EFFE /* Day5.swift */,
 				434CFB90275C90F10001EFFE /* Day5Data.swift */,
+				437896AC275DE473009CEBB0 /* Day6.swift */,
+				437896AE275DE47A009CEBB0 /* Day6Data.swift */,
 			);
 			path = AoC2021;
 			sourceTree = "<group>";
@@ -151,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				434CFB91275C90F10001EFFE /* Day5Data.swift in Sources */,
+				437896AD275DE473009CEBB0 /* Day6.swift in Sources */,
 				434CFB8D275B43CE0001EFFE /* Day4Data.swift in Sources */,
 				434D72CC275B35DD00441E09 /* Day1.swift in Sources */,
 				434CFB87275B3E4C0001EFFE /* Day2.swift in Sources */,
@@ -160,6 +167,7 @@
 				434CFB8F275C8E470001EFFE /* Day5.swift in Sources */,
 				434D72CE275B377A00441E09 /* Day1Data.swift in Sources */,
 				434D72C1275B2BC200441E09 /* main.swift in Sources */,
+				437896AF275DE47A009CEBB0 /* Day6Data.swift in Sources */,
 				434CFB8B275B43C90001EFFE /* Day4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
