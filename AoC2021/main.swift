@@ -41,3 +41,13 @@ print("Day 7 Test: \(testDay7())")
 print("Day 7 Run: \(runDay7())")
 print("Day 7.2 Test: \(testDay7Part2())")
 print("Day 7.2 Run: \(runDay7Part2())")
+
+print("Day 8 Test: \(testDay8())")
+print("Day 8 Run: \(runDay8())")
+print("Day 8.2 Test: \(testDay8Part2())")
+print("Day 8.2 Run: \(runDay8Part2())")
+
+print("Day 9 Test: \(testDay9())")
+print("Day 9 Run: \(runDay9())")
+print("Day 9.2 Test: \(testDay9Part2())")
+print("Day 9.2 Run: \(runDay9Part2())")
