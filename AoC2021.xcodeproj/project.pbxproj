@@ -26,6 +26,8 @@
 		439E5211276079A300840BD2 /* Day8Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439E5210276079A300840BD2 /* Day8Data.swift */; };
 		439E52132761CFF300840BD2 /* Day9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439E52122761CFF300840BD2 /* Day9.swift */; };
 		439E52152761CFFB00840BD2 /* Day9Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439E52142761CFFB00840BD2 /* Day9Data.swift */; };
+		439E52172763C65400840BD2 /* Day10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439E52162763C65400840BD2 /* Day10.swift */; };
+		439E52192763C65E00840BD2 /* Day10Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439E52182763C65E00840BD2 /* Day10Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,6 +63,8 @@
 		439E5210276079A300840BD2 /* Day8Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day8Data.swift; sourceTree = "<group>"; };
 		439E52122761CFF300840BD2 /* Day9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day9.swift; sourceTree = "<group>"; };
 		439E52142761CFFB00840BD2 /* Day9Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day9Data.swift; sourceTree = "<group>"; };
+		439E52162763C65400840BD2 /* Day10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day10.swift; sourceTree = "<group>"; };
+		439E52182763C65E00840BD2 /* Day10Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day10Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +116,8 @@
 				439E5210276079A300840BD2 /* Day8Data.swift */,
 				439E52122761CFF300840BD2 /* Day9.swift */,
 				439E52142761CFFB00840BD2 /* Day9Data.swift */,
+				439E52162763C65400840BD2 /* Day10.swift */,
+				439E52182763C65E00840BD2 /* Day10Data.swift */,
 			);
 			path = AoC2021;
 			sourceTree = "<group>";
@@ -179,6 +185,8 @@
 				437896B1275F3304009CEBB0 /* Day7.swift in Sources */,
 				434CFB8D275B43CE0001EFFE /* Day4Data.swift in Sources */,
 				437896B3275F3312009CEBB0 /* Day7Data.swift in Sources */,
+				439E52192763C65E00840BD2 /* Day10Data.swift in Sources */,
+				439E52172763C65400840BD2 /* Day10.swift in Sources */,
 				434D72CC275B35DD00441E09 /* Day1.swift in Sources */,
 				434CFB87275B3E4C0001EFFE /* Day2.swift in Sources */,
 				434D72C9275B2C4E00441E09 /* Day3.swift in Sources */,
